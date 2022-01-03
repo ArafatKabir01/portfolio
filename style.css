@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#manue{
+    height: 38px;
+    background-color: azure;
+    padding: 12px;
+    line-height: 2%;
+}
+.nabil{
+    text-align: right;
+    margin: 1200px;
+    display: inline;
+    border:solid rgb(15, 61, 50);
+
+}
+.logo{
+    padding: 10px;
+    display: inline;
+}
+.page{
+    height: 10px;
+    text-align: right;
+    padding-left: 1310px;
+    padding-bottom: 50px;
+    display: inline;
+    text-decoration: none;
+    font-size: 15px;
+    text-indent:  15px;
+    
+}
+.button{
+    height: 40px;
+    background-color: coral;
+    color: azure;
+    border: solid rgb(231, 105, 105);
+    border-radius: 5%;
+    font-family: 'Courier New', Courier, monospace;
+    f
+
+}
+#cover{
+    height: 700px;
+    background-color: rgba(100, 148, 237, 0.541);
+    
+}
+a{
+    text-decoration: none;
+    text-indent: 10px;
+}
+.cover-text{
+   padding-left: 20%;
+    
+    
+}
