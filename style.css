@@ -52,7 +52,8 @@ h1{
     width: 50%;
     font-size:24px ;
 }
-p{color: darkgray;}
+p{color: rgb(48, 48, 48);
+padding-right: 5%;}
 .dwnbutton{
     text-decoration: none;
     background-image: linear-gradient(orange,red);
@@ -60,4 +61,12 @@ p{color: darkgray;}
     padding: 10px 40px;
     border-radius: 9px;
     font-size: 18px;
+}
+.experience{
+    display: flex;
+
+}
+.experience_text{
+    width: 50%;
+    margin-top: 10%;
 }
