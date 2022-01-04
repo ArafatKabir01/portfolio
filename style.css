@@ -18,6 +18,7 @@ h1{
 .text{
     width: 40%;
     padding: 120px;
+    font-size: 24px;
 }
 .myphoto img{
   padding-top: 2%;
@@ -35,4 +36,28 @@ h1{
 .top_banner{
     background-image: url(image/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream_aria{
+    margin-top: 7%;
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.img_2nd{
+    width: 50%;
+    padding-left:10% ;
+}
+.deeam_text{
+    padding-right:%;
+    font-size:24px ;
+}
+p{color: darkgray;}
+.dwnbutton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 9px;
+    font-size: 18px;
 }
