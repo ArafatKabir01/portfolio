@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Pushster', cursive;
+    margin: 0;
 }
 .wctext{
     color: dimgrey;
@@ -16,15 +17,22 @@ h1{
 }
 .text{
     width: 40%;
-    padding: 5%;
+    padding: 120px;
 }
-.myphoto{
-    width:%;
+.myphoto img{
+  padding-top: 2%;
+  width: 735px;
+  height: 729px;
 }
 .hireme{
     text-decoration: none;
     background-image: linear-gradient(orange,red);
     color: white;
     padding: 10px 40px;
-    border-radius: 5px;
+    border-radius: 9px;
+   
+}
+.top_banner{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
 }
